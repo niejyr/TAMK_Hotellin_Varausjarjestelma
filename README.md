@@ -68,8 +68,3 @@ Tämä ohjelma on yksinkertainen hotellin varausjärjestelmä, joka mahdollistaa
   - Varausnumeron, huonemäärän ja alennusprosentin generointi perustuu C++:n `random_device` ja `mt19937` -kirjastoihin.
 
 ---
-
-## Lisätiedot
-
-- Ohjelma on tehty osana loppuharjoitustyötä.
-- Tekijä: **Jyri Nieminen**, kurssi **5G00EI63-3012**, luokka **24TIETOB**.
